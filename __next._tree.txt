@@ -1,2 +1,2 @@
-:HL["/estrella-mart-tete/_next/static/chunks/0qlskgfp6ab-3.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"_h0Dh6CBIsUDwZ9Xx7fZX"}
+:HL["/estrella-mart-tete/_next/static/chunks/0zr_s86kovj2..css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"RHUZg7GgnK5ysaUW4zSvm"}

@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 2:I[22789,["/estrella-mart-tete/_next/static/chunks/0os4r2b_q-rny.js"],"ClientPageRoot"]
-3:I[31713,["/estrella-mart-tete/_next/static/chunks/0os4r2b_q-rny.js","/estrella-mart-tete/_next/static/chunks/171t25faq0m6o.js"],"default"]
+3:I[31713,["/estrella-mart-tete/_next/static/chunks/0os4r2b_q-rny.js","/estrella-mart-tete/_next/static/chunks/15-mm8rccfljz.js"],"default"]
 6:I[84080,["/estrella-mart-tete/_next/static/chunks/0os4r2b_q-rny.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/estrella-mart-tete/_next/static/chunks/171t25faq0m6o.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_h0Dh6CBIsUDwZ9Xx7fZX"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/estrella-mart-tete/_next/static/chunks/15-mm8rccfljz.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"RHUZg7GgnK5ysaUW4zSvm"}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
